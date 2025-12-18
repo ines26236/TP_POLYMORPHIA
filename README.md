@@ -1,3 +1,4 @@
+Nom et Prénom : BENAMEUR Iness - MEZAIR Laetitia
 Polymorphia
 
 Polymorphia est un jeu de rôle (RPG) en console Java, où le joueur peut explorer, combattre des monstres, gérer son inventaire, acheter des objets chez un marchand et participer à des combats multijoueur (PvP).
