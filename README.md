@@ -48,6 +48,7 @@ Acheter des objets (armes, armures, potions, sorts, materias) avec des intcoins.
 Catalogue prédéfini avec différents objets de valeur et puissance variable.
 4. JvJ (Joueur contre Joueur)
 
+*Pour acceder au code vous le trouver ici : TP_POLYMORPHIA/src/Controle2
 Mode multijoueur via réseau :
 
 Un serveur central attend 2 joueurs.
